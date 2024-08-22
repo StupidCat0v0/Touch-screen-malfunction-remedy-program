@@ -1,0 +1,33 @@
+C:\Users\chenyanheng\Desktop\补丁\bin\Debug\补丁.exe.config
+C:\Users\chenyanheng\Desktop\补丁\bin\Debug\补丁.exe
+C:\Users\chenyanheng\Desktop\补丁\bin\Debug\补丁.pdb
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.SetForm.resources
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.exe
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.pdb
+C:\Users\chenyanheng\Desktop\补丁\obj\Debug\补丁.ShowForm.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\bin\Debug\补丁.exe.config
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\bin\Debug\补丁.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\bin\Debug\补丁.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.ShowForm.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.SetForm.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Debug\补丁.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\bin\Debug\补丁.exe.config
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\bin\Debug\补丁.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\bin\Debug\补丁.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.ShowForm.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.Properties.Resources.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.SetForm.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.csproj.GenerateResource.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\补丁\obj\Debug\补丁.pdb

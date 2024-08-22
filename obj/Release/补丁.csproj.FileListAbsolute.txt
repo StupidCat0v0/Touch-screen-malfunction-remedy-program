@@ -1,0 +1,11 @@
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\bin\Release\补丁.exe.config
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\bin\Release\补丁.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\bin\Release\补丁.pdb
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.ShowForm.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.SetForm.resources
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.exe
+C:\Users\chenyanheng\Desktop\ALL\C#\补丁\obj\Release\补丁.pdb

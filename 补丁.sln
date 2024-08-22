@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "补丁", "补丁.csproj", "{C800257D-F15B-4DE9-B5F8-3F1827F8C092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C800257D-F15B-4DE9-B5F8-3F1827F8C092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C800257D-F15B-4DE9-B5F8-3F1827F8C092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C800257D-F15B-4DE9-B5F8-3F1827F8C092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C800257D-F15B-4DE9-B5F8-3F1827F8C092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDDA69B-D5DB-4F0A-892C-94E406C6EAA7}
+	EndGlobalSection
+EndGlobal
