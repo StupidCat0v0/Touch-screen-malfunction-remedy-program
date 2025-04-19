@@ -4,10 +4,10 @@ This program prevents the issue of the touch screen being pressed unintentionall
 
 Only supports Chinese
 
-![Alt text](/1.png)
+![Image](/1.png)
 
-![Alt text](/2.png)
+![Image](/2.png)
 
-![Alt text](/3.png)
+![Image](/3.png)
 
-![Alt text](/0.png)
+![Image](/0.png)
